@@ -1,0 +1,1 @@
+Shugo Boy's scripts and apps to assist in FFXIV adventuring.

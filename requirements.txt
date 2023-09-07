@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.2
+lxml==4.9.3
+numpy==1.23.5
+pandas==1.5.3
+pyxivapi==0.5.1
+selenium==4.11.2
+streamlit==1.22.0

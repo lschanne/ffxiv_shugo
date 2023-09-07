@@ -1,0 +1,7 @@
+data/*
+secrets.toml
+*.egg-info
+__pycache__
+dist/
+build/
+venv/
